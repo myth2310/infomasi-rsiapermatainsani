@@ -39,11 +39,6 @@ const layananItems = [
     href: 'https://wa.me/6287881123333'
   },
   {
-    title: 'PONEK RSUIMB',
-    icon: <FaHospitalUser />,
-    href: 'https://wa.me/6287881123333'
-  },
-  {
     title: 'IGD 24 JAM',
     icon: <FaBed />,
     href: 'https://wa.me/6287881123333'
