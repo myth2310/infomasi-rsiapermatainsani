@@ -16,7 +16,7 @@ import {
 
 const menuItems = [
   {
-    title: 'Costumer Care',
+    title: 'Customer Care',
     icon: <FaPhoneAlt />,
     href: 'https://wa.me/6287881123333'
   },
