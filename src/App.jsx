@@ -105,7 +105,7 @@ function App() {
               rel="noopener noreferrer"
               className="text-decoration-none"
             >
-              <div className="d-flex justify-content-between align-items-center px-3 py-2 rounded-pill mb-3 shadow-sm w-100 btn-rsu">
+              <div className="d-flex justify-content-between align-items-center px-4 py-4 rounded-pill mb-3 shadow-sm w-100 btn-rsu">
                 <div className="d-flex align-items-center gap-2">
                   {item.icon}
                   <span className="small fw-medium text-right">{item.title}</span>
@@ -124,7 +124,7 @@ function App() {
               rel="noopener noreferrer"
               className="text-decoration-none"
             >
-              <div className="d-flex justify-content-between align-items-center px-3 py-2 rounded-pill mb-3 shadow-sm w-100 btn-rsu">
+              <div className="d-flex justify-content-between align-items-center px-4 py-4 rounded-pill mb-3 shadow-sm w-100 btn-rsu">
                 <div className="d-flex align-items-center gap-2">
                   {item.icon}
                   <span className="small fw-medium text-right">{item.title}</span>
