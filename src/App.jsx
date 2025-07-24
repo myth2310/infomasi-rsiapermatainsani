@@ -41,7 +41,7 @@ const layananItems = [
   {
     title: 'IGD 24 JAM',
     icon: <FaBed />,
-    href: 'https://wa.me/6287881123333'
+    href: 'https://wa.me/6287773031909'
   },
   {
     title: 'Ambulance',
