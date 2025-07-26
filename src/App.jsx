@@ -71,7 +71,7 @@ function App() {
       />
       <h4 className="fw-bold">RSIA PERMATA INSANI</h4>
       <p className="text-muted small">
-        🏥 RSIA PERMATA INSAN | Jalan Yos Sudarso Pasar Batang, Brebes 📍
+        🏥 RSIA PERMATA INSANI | Jalan Yos Sudarso Pasar Batang, Brebes 📍
       </p>
 
 
