@@ -11,16 +11,11 @@ import {
   FaWhatsapp,
   FaFacebook,
   FaInfoCircle,
-  FaCalendarAlt ,
+  FaCalendarAlt,
 } from 'react-icons/fa';
 
 
 const menuItems = [
-  {
-    title: 'Jadwal Dokter',
-    icon: <FaCalendarAlt  />,
-    href: '/jadwal-dokter'
-  },
   {
     title: 'Customer Care',
     icon: <FaPhoneAlt />,
@@ -102,6 +97,19 @@ function Home() {
 
       <div className="row mt-4">
         <div className="col-12 col-md-8 mx-auto">
+          <h6 className="fw-bold mb-3">JADWAL PELAYANAN 📆</h6>
+          <a
+            href="/jadwal-dokter"
+            rel="noopener noreferrer"
+            className="text-decoration-none">
+            <div className="d-flex justify-content-between align-items-center px-4 py-4 rounded-pill mb-3 shadow-sm w-100 btn-rsu">
+              <div className="d-flex align-items-center gap-2">
+                <FaCalendarAlt />,
+                <span className="small fw-medium text-right">Jadwal Dokter</span>
+              </div>
+            </div>
+          </a>
+
           <h6 className="fw-bold mb-3">KELUHAN, KRITIK & SARAN 🗣️</h6>
           {menuItems.map((item, i) => (
             <a
