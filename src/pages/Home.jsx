@@ -104,7 +104,7 @@ function Home() {
             className="text-decoration-none">
             <div className="d-flex justify-content-between align-items-center px-4 py-4 rounded-pill mb-3 shadow-sm w-100 btn-rsu">
               <div className="d-flex align-items-center gap-2">
-                <FaCalendarAlt />,
+                <FaCalendarAlt />
                 <span className="small fw-medium text-right">Jadwal Dokter</span>
               </div>
             </div>
