@@ -1,0 +1,162 @@
+[
+    {
+        "nama": "dr. Sigit Laksmana,Sp.OG,M,SI.,Med.",
+        "poli": "Obgyn (Kandungan dan Kebidanan)",
+        "spesialis": "Dokter Spesialis Kandungan",
+        "foto": "/dokter/dr_sigit.png",
+        "jadwal": [
+            {
+                "hari": "Senin - Kamis",
+                "pagi": "08.00 - 10.00",
+                "sore": "16.00 - 18.00"
+            }
+        ]
+    },
+    {
+        "nama": "dr.Raden Bagus Prakoso,Sp.OG",
+        "poli": "Obgyn (Kandungan dan Kebidanan)",
+        "spesialis": "Dokter Spesialis Kandungan",
+        "foto": "https://cdn-icons-png.freepik.com/512/6069/6069189.png",
+        "jadwal": [
+            {
+                "hari": "Senin - Kamis",
+                "siang": "14.30 - 16.30"
+            },
+            {
+                "hari": "Jumat - Sabtu",
+                "pagi": "10.00 - 13.00",
+                "sore": "15.00 - 17.00"
+            },
+            {
+                "hari": "Minggu (Khusus Umum)",
+                "pagi": "08.00 - 09.00"
+            }
+        ]
+    },
+    {
+        "nama": "dr.Wisnu Wardhana,Sp.OG",
+        "poli": "Obgyn (Kandungan dan Kebidanan)",
+        "spesialis": "Dokter Spesialis Kandungan",
+        "foto": "/dokter/dr_wisnu.png",
+        "jadwal": [
+            {
+                "hari": "Senin - Kamis",
+                "siang": "11.30 - 13.00"
+            },
+            {
+                "hari": "Jumat - Sabtu",
+                "pagi": "08.00 - 10.00"
+            }
+        ]
+    },
+    {
+        "nama": "dr.Cony Kusumawardani,Sp.OG",
+        "poli": "Obgyn (Kandungan dan Kebidanan)",
+        "spesialis": "Dokter Spesialis Kandungan",
+        "foto": "https://rsudpratomo.rohilkab.go.id/images/dokter/dokter-dr-fatimah-sppd-1PCy01.png",
+        "jadwal": [
+            {
+                "hari": "Senin - Jumat",
+                "siang": "13.00 - 15.00"
+            }
+        ]
+    },
+    {
+        "nama": "dr.Sukma Wibowo,Sp.A.,M.Kes.",
+        "poli": "Anak",
+        "spesialis": "Dokter Spesialis Anak",
+        "foto": "/dokter/dr_sukma.png",
+        "jadwal": [
+            {
+                "hari": "Senin & Sabtu",
+                "pagi": "07.00 - 10.00"
+            },
+            {
+                "hari": "Rabu",
+                "pagi": "07.00 - 09.30"
+            },
+            {
+                "hari": "Selasa & Kamis",
+                "pagi": "07.00 - 09.00"
+            },
+            {
+                "hari": "Senin - Kamis",
+                "sore": "15.30 - 16.45"
+            }
+        ]
+    },
+    {
+        "nama": "dr.Dhani Poerbo S.Widodo,Sp.A",
+        "poli": "Anak",
+        "spesialis": "Dokter Spesialis Anak",
+        "foto": "https://cdn-icons-png.freepik.com/512/6069/6069189.png",
+        "jadwal": [
+            {
+                "hari": "Selasa & Jumat",
+                "siang": "14.00 - 16.00"
+            }
+        ]
+    },
+    {
+        "nama": "dr.Radwika Swastanti W,Sp.A",
+        "poli": "Anak",
+        "spesialis": "Dokter Spesialis Anak",
+        "foto": "https://rsudpratomo.rohilkab.go.id/images/dokter/dokter-dr-fatimah-sppd-1PCy01.png",
+        "jadwal": [
+            {
+                "hari": "Senin - Jumat",
+                "siang": "13.00 - 15.00"
+            }
+        ]
+    },
+    {
+        "nama": "dr.Wahyu Tri J,Sp.B",
+        "poli": "Bedah",
+        "spesialis": "Dokter Spesialis Bedah",
+        "foto": "https://cdn-icons-png.freepik.com/512/6069/6069189.png",
+        "jadwal": [
+            {
+                "hari": "Senin, Rabu & Kamis",
+                "pagi": "07.00 - 09.00"
+            },
+            {
+                "hari": "Selasa & Jumat",
+                "malam": "18.00 - 21.00"
+            }
+        ]
+    },
+    {
+        "nama": "dr.Putri Dyah Utami Ryadi,Sp.K.F.R",
+        "poli": "Tumbuh Kembang",
+        "spesialis": "Dokter Spesialis Tumbuh Kembang",
+        "foto": "https://rsudpratomo.rohilkab.go.id/images/dokter/dokter-dr-fatimah-sppd-1PCy01.png",
+        "jadwal_konsul": [
+            {
+                "hari": "Senin, Selasa & Rabu",
+                "sore": "16.30 - 17.30"
+            },
+            {
+                "hari": "Kamis",
+                "sore": "16.20 - 17.30"
+            },
+            {
+                "hari": "Jumat",
+                "sore": "14.00 - 15.00"
+            },
+            {
+                "hari": "Sabtu",
+                "sore": "15.00 - 16.00"
+            }
+        ],
+        "jadwal_terapi": [
+            {
+                "hari": "Senin & Rabu",
+                "sore": "14.00 - 17.00"
+            },
+            {
+                "hari": "Jumat",
+                "siang": "11.00 - 14.00"
+            }         
+        ]
+    }
+]
