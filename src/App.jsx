@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
-import JadwalDokter from './pages/JadwalDokter';
+import JadwalDokter from './pages/JadwalDokter.jsx';
 
 
 function App() {
